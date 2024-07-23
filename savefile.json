@@ -1,0 +1,13 @@
+{
+    "level": 1,
+    "exp": 0 ,
+    "Lineage": "Farmer",
+    "MaxHP": 10,
+    "MaxMP": 10,
+    "DEF": 0,
+    "MaxAttack": 6,
+    "MinAttack": 1,
+
+    "Companion1_Relationship": 0 
+    
+}
